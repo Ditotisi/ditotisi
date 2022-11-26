@@ -1,5 +1,5 @@
 # 💫 About Me:
-This is work account of github.com/holyholywood
+This is work account of www.github.com/holyholywood
 
 
 # 💻 Tech Stack:
